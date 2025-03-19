@@ -1,0 +1,19 @@
+<svg width="142" height="142" viewBox="0 0 142 142" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 27">
+<g id="Group 24">
+<g id="Ellipse 12" style="mix-blend-mode:color-dodge">
+<g clip-path="url(#paint0_angular_1_3592_clip_path)" data-figma-skip-parse="true"><g transform="matrix(0.0706452 0.0706452 -0.0706452 0.0706452 71.2831 70.6458)"><foreignObject x="-1018.87" y="-1018.87" width="2037.75" height="2037.75"><div xmlns="http://www.w3.org/1999/xhtml" style="background:conic-gradient(from 90deg,rgba(73, 125, 36, 0.5) 0deg,rgba(73, 125, 36, 0.5) 360deg);height:100%;width:100%;opacity:1"></div></foreignObject></g></g><circle cx="71.2831" cy="70.6458" r="70.6452" data-figma-gradient-fill="{&#34;type&#34;:&#34;GRADIENT_ANGULAR&#34;,&#34;stops&#34;:[{&#34;color&#34;:{&#34;r&#34;:0.28627452254295349,&#34;g&#34;:0.49019607901573181,&#34;b&#34;:0.14117647707462311,&#34;a&#34;:0.50},&#34;position&#34;:1.0}],&#34;stopsVar&#34;:[{&#34;color&#34;:{&#34;r&#34;:0.28627452254295349,&#34;g&#34;:0.49019607901573181,&#34;b&#34;:0.14117647707462311,&#34;a&#34;:0.50},&#34;position&#34;:1.0}],&#34;transform&#34;:{&#34;m00&#34;:141.29035949707031,&#34;m01&#34;:-141.29035949707031,&#34;m02&#34;:71.283119201660156,&#34;m10&#34;:141.29035949707031,&#34;m11&#34;:141.29035949707031,&#34;m12&#34;:-70.644569396972656},&#34;opacity&#34;:1.0,&#34;blendMode&#34;:&#34;NORMAL&#34;,&#34;visible&#34;:true}"/>
+</g>
+</g>
+<g id="Group 26">
+<g id="Group 25">
+<g id="Ellipse 12_2" style="mix-blend-mode:lighten">
+<circle cx="71.2829" cy="70.6452" r="70.6452" fill="#FFFCB1" fill-opacity="0.65"/>
+</g>
+</g>
+<path id="Polygon 1" d="M95.0371 68.5118C97.7038 70.0514 97.7038 73.9004 95.0371 75.44L60.4033 95.4358C57.7367 96.9754 54.4033 95.0509 54.4033 91.9717L54.4033 51.9801C54.4033 48.9009 57.7367 46.9764 60.4033 48.516L95.0371 68.5118Z" fill="#3C2B19" fill-opacity="0.85"/>
+</g>
+</g>
+<defs>
+<clipPath id="paint0_angular_1_3592_clip_path"><circle cx="71.2831" cy="70.6458" r="70.6452"/></clipPath></defs>
+</svg>
